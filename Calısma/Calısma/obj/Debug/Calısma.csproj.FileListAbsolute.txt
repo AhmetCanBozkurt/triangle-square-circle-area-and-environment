@@ -1,0 +1,12 @@
+C:\Users\ahmet\source\repos\Calısma\Calısma\bin\Debug\Calısma.exe.config
+C:\Users\ahmet\source\repos\Calısma\Calısma\bin\Debug\Calısma.exe
+C:\Users\ahmet\source\repos\Calısma\Calısma\bin\Debug\Calısma.pdb
+C:\Users\ahmet\source\repos\Calısma\Calısma\obj\Debug\Calısma.csproj.AssemblyReference.cache
+C:\Users\ahmet\source\repos\Calısma\Calısma\obj\Debug\Calısma.Form1.resources
+C:\Users\ahmet\source\repos\Calısma\Calısma\obj\Debug\Calısma.Properties.Resources.resources
+C:\Users\ahmet\source\repos\Calısma\Calısma\obj\Debug\Calısma.ucgen.resources
+C:\Users\ahmet\source\repos\Calısma\Calısma\obj\Debug\Calısma.csproj.GenerateResource.cache
+C:\Users\ahmet\source\repos\Calısma\Calısma\obj\Debug\Calısma.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\source\repos\Calısma\Calısma\obj\Debug\Calısma.exe
+C:\Users\ahmet\source\repos\Calısma\Calısma\obj\Debug\Calısma.pdb
+C:\Users\ahmet\source\repos\Calısma\Calısma\obj\Debug\Calısma.daire.resources
